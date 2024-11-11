@@ -69,3 +69,23 @@ node index.js
 - **Anson Antony:** [GitHub](https://github.com/ansonantony)
 - **Yadhu Krishnan B C:** [GitHub](https://github.com/YBC2204)
 - **Thej Zain:** [GitHub](https://github.com/thejzain)
+
+### Screenshots
+
+
+![Login Page](brics_ss/login.png)
+
+
+![Balance](brics_ss/balance.png)
+
+
+![BuyToken](brics_ss/buy_token.png)
+
+
+![Transaction](brics_ss/transaction.png)
+
+
+![Stock Market Access](brics_ss/stock.png)
+
+
+![Swap Token](brics_ss/swap.png)
